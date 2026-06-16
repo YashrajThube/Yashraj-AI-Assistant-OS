@@ -1,15 +1,26 @@
 .vscode/
-DEMO.mp4
 backup_pre_cleanup/
 logs/
 
+DEMO.mp4
+
 .venv/
 __pycache__/
+*.pyc
+.pytest_cache/
+
+.env
+.env.*
 
 credentials.json
 token.json
 client_secret*.json
 
-.env
-.env.*
-!.env.example
+*.db
+*.sqlite3
+*.log
+
+node_modules/
+dist/
+
+*.ics
