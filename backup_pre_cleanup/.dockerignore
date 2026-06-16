@@ -1,0 +1,15 @@
+__pycache__
+.pytest_cache
+.venv
+venv
+node_modules
+dist
+.env
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+backend/token.json
+backend/credentials.json
+backend/logs

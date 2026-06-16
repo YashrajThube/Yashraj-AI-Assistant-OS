@@ -1,0 +1,5 @@
+{
+  "normalization_report": "backend\\scripts\\normalize_timezones_report.json",
+  "db_audit_report": "backend\\scripts\\db_integrity_audit_report.json",
+  "google_consistency_report": "backend\\scripts\\google_consistency_report.json"
+}
