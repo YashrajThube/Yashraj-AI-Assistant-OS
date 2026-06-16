@@ -1,0 +1,163 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual Environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Pytest
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+
+# Google OAuth / Secrets
+
+# =========================
+
+credentials.json
+credentials.json.json
+token.json
+client_secret*.json
+
+# =========================
+
+# Logs
+
+# =========================
+
+logs/
+*.log
+
+# =========================
+
+# Database Files
+
+# =========================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+
+# Node / Frontend
+
+# =========================
+
+node_modules/
+dist/
+build/
+.vite/
+
+# =========================
+
+# IDE
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Backups
+
+# =========================
+
+backup_pre_cleanup/
+
+# =========================
+
+# Media / Demo Files
+
+# =========================
+
+DEMO.mp4
+*.mov
+*.avi
+
+# =========================
+
+# Temporary Files
+
+# =========================
+
+*.tmp
+*.bak
+*.swp
+
+# =========================
+
+# Python Build Artifacts
+
+# =========================
+
+build/
+dist/
+*.egg-info/
+
+# =========================
+
+# Cache
+
+# =========================
+
+.cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+
+# Local Runtime Data
+
+# =========================
+
+calendar_export.ics
+backend/logs/
+backend/*.log
+
+# =========================
+
+# Security
+
+# =========================
+
+secrets/
+private/
+*.pem
+*.key
+*.crt

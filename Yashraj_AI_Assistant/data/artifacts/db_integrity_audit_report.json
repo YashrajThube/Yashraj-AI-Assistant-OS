@@ -1,0 +1,325 @@
+{
+  "timestamp": "2026-05-25T05:46:03.104039+00:00",
+  "issues": [
+    {
+      "id": 5,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 6,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 7,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 8,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 9,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 10,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 11,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 12,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 13,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 14,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 16,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 20,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 21,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 22,
+      "issue": "naive_timestamp"
+    },
+    {
+      "id": 23,
+      "issue": "naive_timestamp"
+    },
+    {
+      "note_id": 1,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 2,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 3,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 4,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 5,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 6,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 7,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 8,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 9,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 10,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 11,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 12,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 13,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 14,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 15,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 16,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 17,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 18,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 19,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 20,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 21,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 22,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 23,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 24,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 25,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 26,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 27,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 28,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 29,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 30,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 31,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 32,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 33,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 34,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 35,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 36,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 37,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 38,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 39,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 40,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 41,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 42,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 43,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 44,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 45,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 46,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 47,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 48,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 49,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 50,
+      "issue": "naive_created_at"
+    },
+    {
+      "note_id": 51,
+      "issue": "naive_created_at"
+    }
+  ],
+  "counts": {},
+  "repairs": [],
+  "warnings": [],
+  "counts_by_sync_status": {
+    "synced": 15
+  },
+  "duplicate_events": [],
+  "alembic_version": "20260413_0001",
+  "indexes": {
+    "events": [
+      {
+        "index": "ix_events_created_at",
+        "column": "created_at"
+      },
+      {
+        "index": "ix_events_start_time",
+        "column": "start_time"
+      },
+      {
+        "index": "ix_events_user_id",
+        "column": "user_id"
+      },
+      {
+        "index": "PRIMARY",
+        "column": "id"
+      }
+    ],
+    "notes": [
+      {
+        "index": "ix_notes_created_at",
+        "column": "created_at"
+      },
+      {
+        "index": "ix_notes_user_id",
+        "column": "user_id"
+      },
+      {
+        "index": "PRIMARY",
+        "column": "id"
+      }
+    ],
+    "failed_jobs": [
+      {
+        "index": "ix_failed_jobs_status",
+        "column": "status"
+      },
+      {
+        "index": "ix_failed_jobs_type",
+        "column": "type"
+      },
+      {
+        "index": "PRIMARY",
+        "column": "id"
+      }
+    ]
+  }
+}

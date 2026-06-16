@@ -1,0 +1,29 @@
+# Secrets and credentials
+.env
+credentials.json
+backend/credentials.json
+token.json
+backend/token.json
+token.pickle
+backend/token.pickle
+
+# Databases
+*.db
+backend/*.db
+backend/db/*.db
+
+# Python cache / env
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+**/node_modules/
+
+# Frontend and local env files
+frontend/.env
+frontend/.env.*
+
+# Streamlit and local artifacts
+.streamlit/

@@ -1,0 +1,38 @@
+name: Nightly Audit
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # daily at 02:00 UTC
+
+jobs:
+  nightly-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run DB integrity audit
+        run: |
+          python backend/scripts/db_integrity_audit.py
+      - name: Run timezone normalization dry-run
+        run: |
+          python backend/scripts/normalize_timezones.py
+      - name: Run Google consistency check
+        run: |
+          python - <<'PY'
+import json, asyncio, sys
+sys.path.append('Yashraj_AI_Assistant/backend')
+from app.core.config import APP_TIMEZONE
+print('Google consistency script placeholder')
+PY
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: nightly-reports
+          path: backend/scripts/*report*.json
