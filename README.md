@@ -301,37 +301,6 @@ Yashraj-AI-Assistant-OS/
 
 ---
 
-# 📸 Screenshots
-
-## Executive Dashboard
-
-![Dashboard](docs/screenshots/dashboard-overview.png)
-
----
-
-## Analytics Dashboard
-
-![Analytics](docs/screenshots/dashboard-analytics.png)
-
----
-
-## AI Assistant Scheduling
-
-![AI Chat](docs/screenshots/ai-chat-scheduling.png)
-
----
-
-## Calendar Management
-
-![Calendar](docs/screenshots/calendar-management.png)
-
----
-
-## Notes Management
-
-![Notes](docs/screenshots/notes-management.png)
-
----
 
 # ⚙ Installation
 
